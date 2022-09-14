@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>Skill Brewery Internship Programme </title>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+<section>
+
+
+<div id="header1" class="headercolor1">
+
+
+<img src="skill brewery intern.png" alt="skill brewery intern"  width ="120"height="150"><h1 class="head"><center><b>SKILL BREWERY INTERNSHIP PROGRAMME</b></center></h1>
+
+
+</div>
+
+</section>
+<div class="square">
+<div id="header2" class="header2"><img src="background.jpg" alt="link for the interns" width ="100%"height="100%">
+<div class="overlay">
+<div class="text">
+<table>
+  <tr>
+    <th>MECHANICAL ENGINEERING</th>
+    <th>INFORMATION TECHNOLOGY</th>
+    <th>COMPUTER SCIENCE AND BUSINESS SYSTEM</th>
+  </tr>
+  <tr>
+    <td>ELECTRICAL ENGINEERING</td>
+    <td>COMPUTERSCIENCE</td>
+    <td>INFORMATION SCIENCES</td>
+  </tr>
+  <tr>
+    <td>CIVIL ENGINEERING</td>
+    <td>COMPUTER SCIENCE & DESIGN</td>
+    <td>BIOTECHNOLOGY</td>
+  </tr>
+  <tr>
+    <td>ARCHITECTURAL ENGINEERING</td>
+    <td>MECHATRONICS</td>
+    <td>COMPUTER TECHNOLOGY</td>
+  </tr>
+  <tr>
+    <td>CHEMICAL ENGINEERING</td>
+    <td>EEE</td>
+    <td>ECE</td>
+  </tr>
+  <tr>
+    <td>INDUSTRIAL ENGINEERING</td>
+    <td>AGRICULTURAL ENGINEERING</td>
+    <td>AI& DS</td>
+  </tr>
+  <tr>
+    <td>FOOD TECHNOLOGY</td>
+    <td>FASHION TECHNOLOGY</td>
+    <td>AI& ML</td>
+  </tr>
+  <tr>
+    <td>BIOMEDICAL ENGINEERING</td>
+    <td>TEXTILE TECHNOLOGY</td>
+    <td>AUTOMOBILE ENGINEERING</td>
+  </tr>
+</table></div></div>
+</div>
+</div>
+</body>
+</html>
